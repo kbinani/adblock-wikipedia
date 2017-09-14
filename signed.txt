@@ -1,0 +1,8 @@
+[Adblock Plus 1.1]
+! Checksum: XveSryjrDdM1Lqe2RaEoKg
+! Title: adblock-wikipedia
+! Homepage: https://github.com/kbinani/adblock-wikipedia
+! License: https://github.com/kbinani/adblock-wikipedia/blob/master/LICENSE
+wikipedia.org###frb-inline
+wikipedia.org###frb-nag
+wikipedia.org###siteNotice
